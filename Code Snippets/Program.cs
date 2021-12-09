@@ -10,7 +10,6 @@ namespace Code_Snippets
 		{
 			ReverseString();
 			Display();
-			
 			Console.ReadLine();
 		}
 		public static void Display()
